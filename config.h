@@ -38,6 +38,7 @@ static const char *const autostart[] = {
 	"synergyc", "192.168.2.13", NULL,
 	"nitrogen", "--restore", NULL,
 	"picom", "--vsync", "--backend", "glx",  NULL,
+	"lxpolkit", NULL,
 	NULL /* terminate */
 };
 
